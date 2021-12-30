@@ -84,3 +84,4 @@ function otherkey()
 	img_image="otherkey.png";
 	add();
 	
+}

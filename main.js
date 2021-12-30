@@ -56,8 +56,8 @@ function my_keydown(e)
 		 document.getElementById("d1").innerHTML="you pressed Other Key";
 		 console.log("other key");
 	 }
+}
 
-	
  function aplhabetkey()
 {
 img_image="Alpkey.png";
